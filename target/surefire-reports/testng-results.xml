@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="9054" started-at="2020-10-22T12:42:16Z" finished-at="2020-10-22T12:42:25Z">
+  <suite name="Surefire suite" duration-ms="8119" started-at="2020-10-23T06:57:46Z" finished-at="2020-10-23T06:57:54Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="9054" started-at="2020-10-22T12:42:16Z" finished-at="2020-10-22T12:42:25Z">
+    <test name="Surefire test" duration-ms="8119" started-at="2020-10-23T06:57:46Z" finished-at="2020-10-23T06:57:54Z">
       <class name="example.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@7ca48474]" name="beforeTest" is-config="true" duration-ms="4730" started-at="2020-10-22T14:42:16Z" finished-at="2020-10-22T14:42:21Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@7ca48474]" name="beforeTest" is-config="true" duration-ms="4560" started-at="2020-10-23T08:57:46Z" finished-at="2020-10-23T08:57:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="testEasy()[pri:0, instance:example.NewTest@7ca48474]" name="testEasy" duration-ms="2898" started-at="2020-10-22T14:42:21Z" finished-at="2020-10-22T14:42:23Z">
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:example.NewTest@7ca48474]" name="testEasy" duration-ms="2339" started-at="2020-10-23T08:57:50Z" finished-at="2020-10-23T08:57:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@7ca48474]" name="afterTest" is-config="true" duration-ms="1418" started-at="2020-10-22T14:42:23Z" finished-at="2020-10-22T14:42:25Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@7ca48474]" name="afterTest" is-config="true" duration-ms="1213" started-at="2020-10-23T08:57:53Z" finished-at="2020-10-23T08:57:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
